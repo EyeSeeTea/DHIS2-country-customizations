@@ -421,7 +421,7 @@
                 {
                     "property": "NAME",
                     "locale": "es",
-                    "value": "ENTO- Pruebas de susceptibilidad a la concentración discriminante"
+                    "value": "ENTO- Susceptibilidad a insecticida"
                 },
                 {
                     "property": "NAME",
@@ -446,7 +446,7 @@
                 {
                     "property": "SHORT_NAME",
                     "locale": "es",
-                    "value": "Pruebas de susceptibilidad a la concentración discriminant"
+                    "value": "Susceptibilidad a insecticida"
                 }
             ],
             "userGroupAccesses": [],
@@ -670,7 +670,7 @@
                 {
                     "property": "NAME",
                     "locale": "es",
-                    "value": "ENTO- Pruebas de susceptibilidad a las concentraciones 5x y 10x"
+                    "value": "ENTO- Concentraciones 5x y 10x"
                 },
                 {
                     "property": "SHORT_NAME",
@@ -695,7 +695,7 @@
                 {
                     "property": "SHORT_NAME",
                     "locale": "es",
-                    "value": "Pruebas de susceptibilidad a las concentraciones 5x y 10x"
+                    "value": "Concentraciones 5x y 10x"
                 }
             ],
             "userGroupAccesses": [],
@@ -971,7 +971,7 @@
                 {
                     "property": "NAME",
                     "locale": "es",
-                    "value": "ENTO- Pruebas para la detección de mecanismos moleculares y bioquímico"
+                    "value": "ENTO- Mecanismos moleculares y bioquímicos"
                 },
                 {
                     "property": "SHORT_NAME",
@@ -981,7 +981,7 @@
                 {
                     "property": "SHORT_NAME",
                     "locale": "es",
-                    "value": "Pruebas para la detección de mecanismos moleculares y bioquímico"
+                    "value": "Mecanismos moleculares y bioquímicos"
                 },
                 {
                     "property": "SHORT_NAME",
