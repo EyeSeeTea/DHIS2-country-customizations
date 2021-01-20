@@ -56044,14 +56044,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Date of Spray",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -56160,14 +56152,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Household Head Name",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -56283,14 +56267,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Insecticide sprayed",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -56399,14 +56375,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Mosquito Mortality: Day 2- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -58295,14 +58263,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Mosquito Mortality: Day 1/24hrs- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -58411,14 +58371,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number Mosquitoes Dead Day 2 (0.5m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -58531,14 +58483,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number Mosquitoes Dead Day 3 (0.5m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -58647,14 +58591,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number Mosquitoes Dead Day 1/24 hrs (0.5m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -58767,14 +58703,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of Mosquitoes Dead Day 1/24 hrs (1.0m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -58883,14 +58811,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number Mosquitoes Dead Day 3 (1.0m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -59003,14 +58923,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number Mosquitoes Dead Day 2 (1.0m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -59119,14 +59031,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of Mosquitoes Dead Day 3 (1.5m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -59239,14 +59143,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number Mosquitoes Dead Day 1/24 hrs (1.5m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -59355,14 +59251,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of Mosquitoes Dead Day 2 (1.5m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -59475,14 +59363,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number Mosquitoes Dead Day 1/24 hrs (2.0m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -59591,14 +59471,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of Mosquitoes Dead Day 3 (2.0m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -59711,14 +59583,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of Mosquitoes Dead Day 2 (2.0m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -59827,14 +59691,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Total Number Mosquitoes Tested 0.5m",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -59947,14 +59803,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Total Number Mosquitoes Tested 1.0m",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -60063,14 +59911,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Total Number Mosquitoes Tested 1.5m",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -60183,14 +60023,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Total Number Mosquitoes Tested 2.0m",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -60299,14 +60131,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of mosquitoes knocked down: 30 min- Dead (0.5m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -60419,14 +60243,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of mosquitoes knocked down: 30 min- Dead (1.0m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -60537,14 +60353,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of mosquitoes knocked down: 30 min- Dead (1.5m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -60653,14 +60461,6 @@
             "dataElementGroups": [
                 {
                     "id": "JWZF2qAhoN9"
-                }
-            ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of mosquitoes knocked down: 30 min- Dead (2.0m)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
                 }
             ],
             "userAccesses": [],
@@ -61118,14 +60918,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Type of wall surface",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -61555,14 +61347,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of mosquitoes knocked down: 30 min- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -61629,14 +61413,6 @@
             ],
             "userGroupAccesses": [],
             "dataElementGroups": [],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of mosquitoes knocked down: 30 min- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -61703,14 +61479,6 @@
             ],
             "userGroupAccesses": [],
             "dataElementGroups": [],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Number of mosquitoes knocked down: 30 min- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -61777,14 +61545,6 @@
             ],
             "userGroupAccesses": [],
             "dataElementGroups": [],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Mosquito Mortality: Day 2- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -61851,14 +61611,6 @@
             ],
             "userGroupAccesses": [],
             "dataElementGroups": [],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Mosquito Mortality: Day 2- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -62549,14 +62301,6 @@
             ],
             "userGroupAccesses": [],
             "dataElementGroups": [],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Total Number of Control Mosquitoes Used",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -62623,14 +62367,6 @@
             ],
             "userGroupAccesses": [],
             "dataElementGroups": [],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Total Number of Control Mosquitoes Used",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -62741,14 +62477,6 @@
                     "id": "JWZF2qAhoN9"
                 }
             ],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Mosquito Mortality: Day 3- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -62815,14 +62543,6 @@
             ],
             "userGroupAccesses": [],
             "dataElementGroups": [],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Mosquito Mortality: Day 3- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -62889,14 +62609,6 @@
             ],
             "userGroupAccesses": [],
             "dataElementGroups": [],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Mosquito Mortality: Day 3- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -62963,14 +62675,6 @@
             ],
             "userGroupAccesses": [],
             "dataElementGroups": [],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Mosquito Mortality: Day 1/24hrs- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -63037,14 +62741,6 @@
             ],
             "userGroupAccesses": [],
             "dataElementGroups": [],
-            "attributeValues": [
-                {
-                    "value": "ENTO-CB Mosquito Mortality: Day 1/24hrs- Dead (Total control)",
-                    "attribute": {
-                        "id": "sX1tP7pA1IS"
-                    }
-                }
-            ],
             "userAccesses": [],
             "legendSets": [],
             "aggregationLevels": [
@@ -84643,66 +84339,6 @@
             "userGroupAccesses": [],
             "attributeValues": [],
             "userAccesses": []
-        }
-    ],
-    "attributes": [
-        {
-            "lastUpdated": "2020-10-08T13:01:06.339",
-            "id": "sX1tP7pA1IS",
-            "created": "2019-07-11T06:26:24.400",
-            "name": "PMI Name",
-            "shortName": "PMI Name",
-            "code": "ENTO_PMI_NAME",
-            "indicatorAttribute": false,
-            "indicatorGroupAttribute": false,
-            "publicAccess": "rw------",
-            "userGroupAttribute": false,
-            "dataElementAttribute": true,
-            "constantAttribute": false,
-            "valueType": "TEXT",
-            "categoryOptionAttribute": false,
-            "optionSetAttribute": false,
-            "sqlViewAttribute": false,
-            "legendSetAttribute": false,
-            "displayFormName": "PMI Name",
-            "trackedEntityAttributeAttribute": false,
-            "organisationUnitAttribute": false,
-            "dataSetAttribute": false,
-            "documentAttribute": false,
-            "unique": false,
-            "validationRuleGroupAttribute": false,
-            "favorite": false,
-            "dataElementGroupAttribute": false,
-            "sectionAttribute": false,
-            "trackedEntityTypeAttribute": false,
-            "userAttribute": false,
-            "displayName": "PMI Name",
-            "mandatory": false,
-            "categoryOptionGroupAttribute": false,
-            "displayShortName": "PMI Name",
-            "externalAccess": false,
-            "programStageAttribute": false,
-            "programAttribute": false,
-            "categoryAttribute": false,
-            "categoryOptionComboAttribute": false,
-            "categoryOptionGroupSetAttribute": false,
-            "validationRuleAttribute": false,
-            "programIndicatorAttribute": false,
-            "organisationUnitGroupAttribute": false,
-            "dataElementGroupSetAttribute": false,
-            "organisationUnitGroupSetAttribute": false,
-            "optionAttribute": false,
-            "lastUpdatedBy": {
-                "id": "gUQgjMPkPvK"
-            },
-            "user": {
-                "id": "gUQgjMPkPvK"
-            },
-            "translations": [],
-            "userGroupAccesses": [],
-            "attributeValues": [],
-            "userAccesses": [],
-            "favorites": []
         }
     ],
     "programRules": [
